@@ -1,0 +1,77 @@
+.body{
+    margin: 0;
+}
+
+/* header */
+
+.header{
+    position: fixed; 
+    width:100%;
+    z-index: 1;
+    background: #247036;
+}
+
+/* image section */
+
+.intro-section{
+    background: #e8f1eb;
+    padding-top: 5em; 
+    padding-bottom: 3em;
+    
+}
+
+.section-img{
+    text-align: center;
+}
+
+.image{
+    /* height: 457px;
+    width: 330px; */
+
+    height: 500px;
+    width: 500px;
+}
+
+.section-quote{
+    text-align: center;
+}
+
+/* project section */
+.project-section{
+    background: #bff5c2;
+}
+
+.prj-head{
+    text-align: center;
+    color: #063609;
+}
+.card{
+    background: #40754b;
+}
+.prj-desc{
+    float: left;
+    height: 210px;
+}
+
+.project-div{
+    height: 200px;
+}
+.card-link{
+    color: rgb(227, 241, 99);
+}
+
+/* Service section */
+
+.service-section{
+    background: #e8f1eb;
+}
+
+
+
+.card-img-top{
+    width: 110px;
+}
+
+.contact{
+    background: #bff5c2;
+}
